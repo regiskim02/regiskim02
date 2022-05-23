@@ -1,7 +1,7 @@
 ### Hi my name is Regis Kim
 
 - 🔭 In the moment i'm searching for my first job
-- 🌱 In the moment i'm studying JavaScript, HTML, CSS
+- 🌱 In the moment i'm studying JavaScript | HTML | CSS
  
 <img height="200" src="https://i.pinimg.com/originals/55/4f/6e/554f6ea916913c2caab8ec97be82698c.gif">
 
