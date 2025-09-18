@@ -3,7 +3,6 @@
 - 🔭 In the moment i'm searching for my first job
 - 🌱 In the moment i'm studying JavaScript | HTML | CSS
  
-<img height="200" src="https://i.pinimg.com/originals/55/4f/6e/554f6ea916913c2caab8ec97be82698c.gif">
 
 <div align="center">
   <a href="https://github.com/regiskim02">
@@ -19,4 +18,4 @@
   ###
     
   <a href = "mailto:regiskim987@gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/regis-hyeon-ho-kim-919458220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <img align="right" height="170" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif">
+  <a href="https://www.linkedin.com/in/regis-hyeon-ho-kim-919458220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
